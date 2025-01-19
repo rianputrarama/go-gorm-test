@@ -1,0 +1,11 @@
+{"level":"info","ts":1737226151.38051,"msg":"API service well initialized. Let's work!","description":"api service is ready","service":"API","timestamp":"2025-01-19T01:49:11+07:00","latency":0.0005208}
+{"level":"info","ts":1737226275.863731,"msg":"API service well initialized. Let's work!","description":"api service is ready","service":"API","timestamp":"2025-01-19T01:51:15+07:00","latency":0.0005077}
+{"level":"info","ts":1737226794.0035918,"msg":"API service well initialized. Let's work!","description":"api service is ready","service":"API","timestamp":"2025-01-19T01:59:54+07:00","latency":0.0006119}
+{"level":"info","ts":1737226927.9023216,"msg":"API service well initialized. Let's work!","description":"api service is ready","service":"API","timestamp":"2025-01-19T02:02:07+07:00","latency":0.0011006}
+{"level":"info","ts":1737227146.6143656,"msg":"API service well initialized. Let's work!","description":"api service is ready","service":"API","timestamp":"2025-01-19T02:05:46+07:00","latency":0.0005063}
+{"level":"info","ts":1737227172.0902662,"msg":"API service well initialized. Let's work!","description":"api service is ready","service":"API","timestamp":"2025-01-19T02:06:12+07:00","latency":0.0020934}
+{"level":"info","ts":1737227208.138061,"msg":"API service well initialized. Let's work!","description":"api service is ready","service":"API","timestamp":"2025-01-19T02:06:48+07:00","latency":0.0005616}
+{"level":"info","ts":1737227355.7053928,"msg":"API service well initialized. Let's work!","description":"api service is ready","service":"API","timestamp":"2025-01-19T02:09:15+07:00","latency":0}
+{"level":"info","ts":1737227393.3776765,"msg":"API service well initialized. Let's work!","description":"api service is ready","service":"API","timestamp":"2025-01-19T02:09:53+07:00","latency":0.0005077}
+{"level":"info","ts":1737227464.923635,"msg":"API service well initialized. Let's work!","description":"api service is ready","service":"API","timestamp":"2025-01-19T02:11:04+07:00","latency":0.0005926}
+{"level":"info","ts":1737227498.2014797,"msg":"API service well initialized. Let's work!","description":"api service is ready","service":"API","timestamp":"2025-01-19T02:11:38+07:00","latency":0.0005697}

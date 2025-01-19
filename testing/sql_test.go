@@ -32,3 +32,15 @@ func TestExecuteSQL(t *testing.T) {
 	err = db.Exec("insert into sample(id, name) values (?, ?)", "1", "Raisa").Error
 	assert.Nil(t, err)
 }
+
+type Sample struct {
+	Id   int
+	Name string
+}
+
+func TestSelectSQL(t *testing.T) {
+	var samples []Sample
+	err := db.Raw("SELECT id, name FROM sample").Scan(&samples).Error
+	assert.Nil(t, err)
+	assert.Equal(t, 3, len(samples))
+}
